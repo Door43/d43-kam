@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kam:home|Door43 (kam)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kam|d43-kam repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kam/archive/master.zip|d43-kam.zip]]
+
+**Recent Changes**
+{{changes>ns = kam}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kam|Ethnologue data]]
+
